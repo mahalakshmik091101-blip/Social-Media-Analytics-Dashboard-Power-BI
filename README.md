@@ -1,10 +1,11 @@
-Social Media Analytics Dashboard- Power BI
-1. Project Overview
+<img width="603" height="9" alt="image" src="https://github.com/user-attachments/assets/47338037-c2a9-43a9-b7c8-18736dbd76e1" />Social Media Analytics Dashboard- Power BI
 
-This project was completed as part of my Data Analyst Internship.
+1. Project Overview
 The objective was to design and develop an interactive Social Media Analytics Dashboard using Power BI to analyze tweet performance through advanced analytical logic and dynamic visualization techniques.
 
 The dashboard evaluates engagement metrics such as likes, retweets, replies, impressions, media views, and interaction clicks using structured business rules and DAX-based calculations.
+
+<img width="2113" height="1" alt="image" src="https://github.com/user-attachments/assets/045abefe-602d-4511-8b9c-e632d48442bb" />
 
 2. Project Objectives
 
